@@ -1,4 +1,4 @@
-#ConfuserEx-Mod
+ConfuserEx-Mod
 ========
 ConfuserEx is a open-source protector for .NET applications.
 It is the successor of [Confuser](http://confuser.codeplex.com) project.
@@ -46,6 +46,6 @@ See LICENSE file for details.
 
 Credits
 -------
-**[0xd4d](https://github.com/0xd4d)** for his awesome work and extensive knowledge!  
-Members of **[Black Storm Forum](http://board.b-at-s.info/)** for their help!
-RivaTesu for **[ConfuserEx additions](https://github.com/RivaTesu/ConfuserEx-Additions)**
++ **[0xd4d](https://github.com/0xd4d)** for his awesome work and extensive knowledge!  
++ Members of **[Black Storm Forum](http://board.b-at-s.info/)** for their help!
++ RivaTesu for **[ConfuserEx additions](https://github.com/RivaTesu/ConfuserEx-Additions)**
