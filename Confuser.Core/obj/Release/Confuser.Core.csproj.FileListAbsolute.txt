@@ -1,0 +1,2 @@
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.Core\obj\Release\Confuser.Core.csprojAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.Core\obj\Release\Confuser.Core.csproj.CoreCompileInputs.cache

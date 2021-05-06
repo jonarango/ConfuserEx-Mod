@@ -1,0 +1,42 @@
+D:\neo-ConfuserEx-master\Confuser.CLI\obj\Debug\Confuser.CLI.csprojAssemblyReference.cache
+D:\neo-ConfuserEx-master\Confuser.CLI\obj\Debug\Confuser.CLI.csproj.CoreCompileInputs.cache
+D:\neo-ConfuserEx-master\Debug\bin\Confuser.CLI.exe
+D:\neo-ConfuserEx-master\Debug\bin\Confuser.CLI.pdb
+D:\neo-ConfuserEx-master\Confuser.CLI\obj\Debug\Confuser.CLI.csproj.CopyComplete
+D:\neo-ConfuserEx-master\Confuser.CLI\obj\Debug\Confuser.CLI.exe
+D:\neo-ConfuserEx-master\Confuser.CLI\obj\Debug\Confuser.CLI.pdb
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Debug\bin\Confuser.CLI.exe
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Debug\bin\Confuser.CLI.pdb
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Confuser.CLI\obj\Debug\Confuser.CLI.csprojAssemblyReference.cache
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Confuser.CLI\obj\Debug\Confuser.CLI.csproj.CoreCompileInputs.cache
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Confuser.CLI\obj\Debug\Confuser.CLI.csproj.CopyComplete
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Confuser.CLI\obj\Debug\Confuser.CLI.exe
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Confuser.CLI\obj\Debug\Confuser.CLI.pdb
+D:\Trinity Obfuscator\Debug\bin\Confuser.CLI.exe
+D:\Trinity Obfuscator\Debug\bin\Confuser.CLI.pdb
+D:\Trinity Obfuscator\Confuser.CLI\obj\Debug\Confuser.CLI.csprojAssemblyReference.cache
+D:\Trinity Obfuscator\Confuser.CLI\obj\Debug\Confuser.CLI.csproj.CoreCompileInputs.cache
+D:\Trinity Obfuscator\Confuser.CLI\obj\Debug\Confuser.CLI.csproj.CopyComplete
+D:\Trinity Obfuscator\Confuser.CLI\obj\Debug\Confuser.CLI.exe
+D:\Trinity Obfuscator\Confuser.CLI\obj\Debug\Confuser.CLI.pdb
+D:\Trinity Obfuscator - Backup\Debug\bin\Confuser.CLI.exe
+D:\Trinity Obfuscator - Backup\Debug\bin\Confuser.CLI.pdb
+D:\Trinity Obfuscator - Backup\Confuser.CLI\obj\Debug\Confuser.CLI.csprojAssemblyReference.cache
+D:\Trinity Obfuscator - Backup\Confuser.CLI\obj\Debug\Confuser.CLI.csproj.CoreCompileInputs.cache
+D:\Trinity Obfuscator - Backup\Confuser.CLI\obj\Debug\Confuser.CLI.csproj.CopyComplete
+D:\Trinity Obfuscator - Backup\Confuser.CLI\obj\Debug\Confuser.CLI.exe
+D:\Trinity Obfuscator - Backup\Confuser.CLI\obj\Debug\Confuser.CLI.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Debug\bin\Confuser.CLI.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Debug\bin\Confuser.CLI.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.CLI\obj\Debug\Confuser.CLI.csprojAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.CLI\obj\Debug\Confuser.CLI.csproj.CoreCompileInputs.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.CLI\obj\Debug\Confuser.CLI.csproj.CopyComplete
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.CLI\obj\Debug\Confuser.CLI.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.CLI\obj\Debug\Confuser.CLI.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Debug\bin\Confuser.CLI.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Debug\bin\Confuser.CLI.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.CLI\obj\Debug\Confuser.CLI.csprojAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.CLI\obj\Debug\Confuser.CLI.csproj.CoreCompileInputs.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.CLI\obj\Debug\Confuser.CLI.csproj.CopyComplete
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.CLI\obj\Debug\Confuser.CLI.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.CLI\obj\Debug\Confuser.CLI.pdb

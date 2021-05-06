@@ -1,0 +1,42 @@
+D:\neo-ConfuserEx-master\Debug\bin\Confuser.Renamer.dll
+D:\neo-ConfuserEx-master\Confuser.Renamer\obj\Debug\Confuser.Renamer.csprojAssemblyReference.cache
+D:\neo-ConfuserEx-master\Confuser.Renamer\obj\Debug\Confuser.Renamer.csproj.CoreCompileInputs.cache
+D:\neo-ConfuserEx-master\Confuser.Renamer\obj\Debug\Confuser.Renamer.csproj.CopyComplete
+D:\neo-ConfuserEx-master\Confuser.Renamer\obj\Debug\Confuser.Renamer.dll
+D:\neo-ConfuserEx-master\Confuser.Renamer\obj\Debug\Confuser.Renamer.pdb
+D:\neo-ConfuserEx-master\Debug\bin\Confuser.Renamer.pdb
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Debug\bin\Confuser.Renamer.dll
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Debug\bin\Confuser.Renamer.pdb
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Confuser.Renamer\obj\Debug\Confuser.Renamer.csprojAssemblyReference.cache
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Confuser.Renamer\obj\Debug\Confuser.Renamer.csproj.CoreCompileInputs.cache
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Confuser.Renamer\obj\Debug\Confuser.Renamer.csproj.CopyComplete
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Confuser.Renamer\obj\Debug\Confuser.Renamer.dll
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Confuser.Renamer\obj\Debug\Confuser.Renamer.pdb
+D:\Trinity Obfuscator\Debug\bin\Confuser.Renamer.dll
+D:\Trinity Obfuscator\Debug\bin\Confuser.Renamer.pdb
+D:\Trinity Obfuscator\Confuser.Renamer\obj\Debug\Confuser.Renamer.csprojAssemblyReference.cache
+D:\Trinity Obfuscator\Confuser.Renamer\obj\Debug\Confuser.Renamer.csproj.CoreCompileInputs.cache
+D:\Trinity Obfuscator\Confuser.Renamer\obj\Debug\Confuser.Renamer.csproj.CopyComplete
+D:\Trinity Obfuscator\Confuser.Renamer\obj\Debug\Confuser.Renamer.dll
+D:\Trinity Obfuscator\Confuser.Renamer\obj\Debug\Confuser.Renamer.pdb
+D:\Trinity Obfuscator - Backup\Debug\bin\Confuser.Renamer.dll
+D:\Trinity Obfuscator - Backup\Debug\bin\Confuser.Renamer.pdb
+D:\Trinity Obfuscator - Backup\Confuser.Renamer\obj\Debug\Confuser.Renamer.csprojAssemblyReference.cache
+D:\Trinity Obfuscator - Backup\Confuser.Renamer\obj\Debug\Confuser.Renamer.csproj.CoreCompileInputs.cache
+D:\Trinity Obfuscator - Backup\Confuser.Renamer\obj\Debug\Confuser.Renamer.csproj.CopyComplete
+D:\Trinity Obfuscator - Backup\Confuser.Renamer\obj\Debug\Confuser.Renamer.dll
+D:\Trinity Obfuscator - Backup\Confuser.Renamer\obj\Debug\Confuser.Renamer.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Debug\bin\Confuser.Renamer.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Debug\bin\Confuser.Renamer.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.Renamer\obj\Debug\Confuser.Renamer.csprojAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.Renamer\obj\Debug\Confuser.Renamer.csproj.CoreCompileInputs.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.Renamer\obj\Debug\Confuser.Renamer.csproj.CopyComplete
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.Renamer\obj\Debug\Confuser.Renamer.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.Renamer\obj\Debug\Confuser.Renamer.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Debug\bin\Confuser.Renamer.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Debug\bin\Confuser.Renamer.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.Renamer\obj\Debug\Confuser.Renamer.csprojAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.Renamer\obj\Debug\Confuser.Renamer.csproj.CoreCompileInputs.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.Renamer\obj\Debug\Confuser.Renamer.csproj.CopyComplete
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.Renamer\obj\Debug\Confuser.Renamer.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.Renamer\obj\Debug\Confuser.Renamer.pdb

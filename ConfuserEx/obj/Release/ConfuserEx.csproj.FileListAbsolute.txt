@@ -1,0 +1,27 @@
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Release\CompComboBox.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Release\Views.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Release\App.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Release\CompComboBox.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Release\MainWindow.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Release\StackTraceDecoder.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Release\Views\ProjectRuleView.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Release\Views\ProjectModuleView.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Release\Views\ProjectTabAdvancedView.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Release\App.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Release\Confuser_MarkupCompile.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Release\Confuser_MarkupCompile.lref
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Release\ConfuserEx.csprojAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Release\CompComboBox.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Release\Views.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Release\App.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Release\CompComboBox.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Release\MainWindow.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Release\StackTraceDecoder.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Release\Views\ProjectRuleView.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Release\Views\ProjectModuleView.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Release\Views\ProjectTabAdvancedView.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Release\App.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Release\Confuser_MarkupCompile.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Release\Confuser_MarkupCompile.lref

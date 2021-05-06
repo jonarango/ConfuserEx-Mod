@@ -1,0 +1,7 @@
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.Protections\obj\Release\Confuser.Protections.Properties.Resources.resources
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.Protections\obj\Release\Confuser.Protections.csproj.GenerateResource.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.Protections\obj\Release\Confuser.Protections.csproj.CoreCompileInputs.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.Protections\obj\Release\Confuser.Protections.csprojAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.Protections\obj\Release\Confuser.Protections.Properties.Resources.resources
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.Protections\obj\Release\Confuser.Protections.csproj.GenerateResource.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.Protections\obj\Release\Confuser.Protections.csproj.CoreCompileInputs.cache

@@ -1,0 +1,27 @@
+D:\neo-ConfuserEx-master\Build\obj\Release\UpdateVersion.csprojAssemblyReference.cache
+D:\neo-ConfuserEx-master\Build\obj\Release\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\neo-ConfuserEx-master\Build\obj\Release\UpdateVersion.exe
+D:\neo-ConfuserEx-master\Build\UpdateVersion.exe
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Build\obj\Release\UpdateVersion.csprojAssemblyReference.cache
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Build\obj\Release\UpdateVersion.csproj.CoreCompileInputs.cache
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Build\obj\Release\UpdateVersion.exe
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Build\UpdateVersion.exe
+D:\Trinity Obfuscator\Build\obj\Release\UpdateVersion.csprojAssemblyReference.cache
+D:\Trinity Obfuscator\Build\obj\Release\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\Trinity Obfuscator\Build\obj\Release\UpdateVersion.exe
+D:\Trinity Obfuscator\Build\UpdateVersion.exe
+D:\Trinity Obfuscator - Backup\Build\obj\Release\UpdateVersion.csprojAssemblyReference.cache
+D:\Trinity Obfuscator - Backup\Build\obj\Release\UpdateVersion.csproj.CoreCompileInputs.cache
+D:\Trinity Obfuscator - Backup\Build\obj\Release\UpdateVersion.exe
+D:\Trinity Obfuscator - Backup\Build\UpdateVersion.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Build\obj\Release\UpdateVersion.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Build\UpdateVersion.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Build\obj\Release\UpdateVersion.csprojResolveAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\Build\obj\Release\UpdateVersion.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\Build\UpdateVersion.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\Build\obj\Release\UpdateVersion.csproj.CoreCompileInputs.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\Build\obj\Release\UpdateVersion.csprojAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Build\obj\Release\UpdateVersion.csprojAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Build\obj\Release\UpdateVersion.csproj.CoreCompileInputs.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Build\obj\Release\UpdateVersion.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Build\UpdateVersion.exe

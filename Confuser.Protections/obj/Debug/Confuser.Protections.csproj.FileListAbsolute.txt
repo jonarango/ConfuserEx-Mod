@@ -1,0 +1,48 @@
+D:\neo-ConfuserEx-master\Confuser.Protections\obj\Debug\Confuser.Protections.csprojAssemblyReference.cache
+D:\neo-ConfuserEx-master\Confuser.Protections\obj\Debug\Confuser.Protections.csproj.CoreCompileInputs.cache
+D:\neo-ConfuserEx-master\Debug\bin\Confuser.Protections.dll
+D:\neo-ConfuserEx-master\Debug\bin\Confuser.Protections.pdb
+D:\neo-ConfuserEx-master\Confuser.Protections\obj\Debug\Confuser.Protections.csproj.CopyComplete
+D:\neo-ConfuserEx-master\Confuser.Protections\obj\Debug\Confuser.Protections.dll
+D:\neo-ConfuserEx-master\Confuser.Protections\obj\Debug\Confuser.Protections.pdb
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Debug\bin\Confuser.Protections.dll
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Debug\bin\Confuser.Protections.pdb
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Confuser.Protections\obj\Debug\Confuser.Protections.csprojAssemblyReference.cache
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Confuser.Protections\obj\Debug\Confuser.Protections.csproj.CoreCompileInputs.cache
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Confuser.Protections\obj\Debug\Confuser.Protections.csproj.CopyComplete
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Confuser.Protections\obj\Debug\Confuser.Protections.dll
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Confuser.Protections\obj\Debug\Confuser.Protections.pdb
+D:\Trinity Obfuscator\Debug\bin\Confuser.Protections.dll
+D:\Trinity Obfuscator\Debug\bin\Confuser.Protections.pdb
+D:\Trinity Obfuscator\Confuser.Protections\obj\Debug\Confuser.Protections.csprojAssemblyReference.cache
+D:\Trinity Obfuscator\Confuser.Protections\obj\Debug\Confuser.Protections.csproj.CoreCompileInputs.cache
+D:\Trinity Obfuscator\Confuser.Protections\obj\Debug\Confuser.Protections.csproj.CopyComplete
+D:\Trinity Obfuscator\Confuser.Protections\obj\Debug\Confuser.Protections.dll
+D:\Trinity Obfuscator\Confuser.Protections\obj\Debug\Confuser.Protections.pdb
+D:\Trinity Obfuscator - Backup\Confuser.Protections\obj\Debug\Confuser.Protections.csprojAssemblyReference.cache
+D:\Trinity Obfuscator - Backup\Confuser.Protections\obj\Debug\Confuser.Protections.csproj.CoreCompileInputs.cache
+D:\Trinity Obfuscator - Backup\Confuser.Protections\obj\Debug\Confuser.Protections.dll
+D:\Trinity Obfuscator - Backup\Confuser.Protections\obj\Debug\Confuser.Protections.pdb
+D:\Trinity Obfuscator - Backup\Debug\bin\Confuser.Protections.dll
+D:\Trinity Obfuscator - Backup\Debug\bin\Confuser.Protections.pdb
+D:\Trinity Obfuscator - Backup\Confuser.Protections\obj\Debug\Confuser.Protections.csproj.CopyComplete
+D:\Trinity Obfuscator - Backup\Confuser.Protections\obj\Debug\Confuser.Protections.Properties.Resources.resources
+D:\Trinity Obfuscator - Backup\Confuser.Protections\obj\Debug\Confuser.Protections.csproj.GenerateResource.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Debug\bin\Confuser.Protections.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Debug\bin\Confuser.Protections.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.Protections\obj\Debug\Confuser.Protections.csprojAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.Protections\obj\Debug\Confuser.Protections.Properties.Resources.resources
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.Protections\obj\Debug\Confuser.Protections.csproj.GenerateResource.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.Protections\obj\Debug\Confuser.Protections.csproj.CoreCompileInputs.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.Protections\obj\Debug\Confuser.Protections.csproj.CopyComplete
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.Protections\obj\Debug\Confuser.Protections.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.Protections\obj\Debug\Confuser.Protections.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Debug\bin\Confuser.Protections.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Debug\bin\Confuser.Protections.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.Protections\obj\Debug\Confuser.Protections.csprojAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.Protections\obj\Debug\Confuser.Protections.Properties.Resources.resources
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.Protections\obj\Debug\Confuser.Protections.csproj.GenerateResource.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.Protections\obj\Debug\Confuser.Protections.csproj.CoreCompileInputs.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.Protections\obj\Debug\Confuser.Protections.csproj.CopyComplete
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.Protections\obj\Debug\Confuser.Protections.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.Protections\obj\Debug\Confuser.Protections.pdb

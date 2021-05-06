@@ -1,0 +1,37 @@
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\UnitTest\bin\Release\UnitTest.exe.config
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\UnitTest\bin\Release\UnitTest.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\UnitTest\bin\Release\UnitTest.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\UnitTest\obj\Release\UnitTest.csprojAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\UnitTest\obj\Release\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\UnitTest\obj\Release\UnitTest.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\UnitTest\obj\Release\UnitTest.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\UnitTest\obj\Release\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\UnitTest\obj\Release\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\UnitTest\obj\Release\UnitTest.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\UnitTest\obj\Release\UnitTest.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Release\UnitTest.exe.config
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Release\UnitTest.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Release\UnitTest.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Release\System.AppContext.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Release\System.Console.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Release\System.Globalization.Calendars.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Release\System.IO.Compression.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Release\System.IO.FileSystem.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Release\System.Net.Http.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Release\System.Net.Sockets.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\obj\Release\UnitTest.csprojAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\obj\Release\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\obj\Release\UnitTest.csproj.CopyComplete
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\obj\Release\UnitTest.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\obj\Release\UnitTest.pdb

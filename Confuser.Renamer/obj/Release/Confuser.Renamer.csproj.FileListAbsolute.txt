@@ -1,0 +1,3 @@
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.Renamer\obj\Release\Confuser.Renamer.csproj.CoreCompileInputs.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.Renamer\obj\Release\Confuser.Renamer.csprojAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.Renamer\obj\Release\Confuser.Renamer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,224 @@
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\ConfuserEx.csprojAssemblyReference.cache
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\CompComboBox.baml
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views.baml
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\App.baml
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\CompComboBox.g.cs
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\MainWindow.g.cs
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\StackTraceDecoder.g.cs
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views\ProjectRuleView.g.cs
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views\ProjectModuleView.g.cs
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views\ProjectTabAdvancedView.g.cs
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\App.g.cs
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\ConfuserEx_MarkupCompile.cache
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\ConfuserEx_MarkupCompile.lref
+D:\neo-ConfuserEx-master\Debug\bin\ConfuserEx.exe.config
+D:\neo-ConfuserEx-master\Debug\bin\ConfuserEx.exe
+D:\neo-ConfuserEx-master\Debug\bin\ConfuserEx.pdb
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\MainWindow.baml
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Skin.baml
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\StackTraceDecoder.baml
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views\AboutTabView.baml
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views\ProtectTabView.baml
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views\ProjectRuleView.baml
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views\SettingsTabView.baml
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views\ProjectModuleView.baml
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views\ProjectTabAdvancedView.baml
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views\ProjectTabView.baml
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\ConfuserEx.g.resources
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\ConfuserEx.csproj.CoreCompileInputs.cache
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\ConfuserEx.csproj.CopyComplete
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\ConfuserEx.exe
+D:\neo-ConfuserEx-master\ConfuserEx\obj\Debug\ConfuserEx.pdb
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Debug\bin\ConfuserEx.exe.config
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Debug\bin\ConfuserEx.exe
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Debug\bin\ConfuserEx.pdb
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\ConfuserEx.csprojAssemblyReference.cache
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\CompComboBox.baml
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views.baml
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\App.baml
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\CompComboBox.g.cs
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\MainWindow.g.cs
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\StackTraceDecoder.g.cs
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views\ProjectRuleView.g.cs
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views\ProjectModuleView.g.cs
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views\ProjectTabAdvancedView.g.cs
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\App.g.cs
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\ConfuserEx_MarkupCompile.cache
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\ConfuserEx_MarkupCompile.lref
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\MainWindow.baml
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Skin.baml
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\StackTraceDecoder.baml
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views\AboutTabView.baml
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views\ProtectTabView.baml
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views\ProjectRuleView.baml
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views\SettingsTabView.baml
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views\ProjectModuleView.baml
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views\ProjectTabAdvancedView.baml
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\Views\ProjectTabView.baml
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\ConfuserEx.g.resources
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\ConfuserEx.csproj.CoreCompileInputs.cache
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\ConfuserEx.csproj.CopyComplete
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\ConfuserEx.exe
+C:\Users\buett\Desktop\neo-ConfuserEx-master\ConfuserEx\obj\Debug\ConfuserEx.pdb
+D:\Trinity Obfuscator\Debug\bin\ConfuserEx.exe.config
+D:\Trinity Obfuscator\Debug\bin\ConfuserEx.exe
+D:\Trinity Obfuscator\Debug\bin\ConfuserEx.pdb
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\ConfuserEx.csprojAssemblyReference.cache
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\CompComboBox.baml
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\Views.baml
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\App.baml
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\CompComboBox.g.cs
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\MainWindow.g.cs
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\StackTraceDecoder.g.cs
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\Views\ProjectRuleView.g.cs
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\Views\ProjectModuleView.g.cs
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\Views\ProjectTabAdvancedView.g.cs
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\App.g.cs
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\ConfuserEx_MarkupCompile.cache
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\ConfuserEx_MarkupCompile.lref
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\MainWindow.baml
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\Skin.baml
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\StackTraceDecoder.baml
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\Views\AboutTabView.baml
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\Views\ProtectTabView.baml
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\Views\ProjectRuleView.baml
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\Views\SettingsTabView.baml
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\Views\ProjectModuleView.baml
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\Views\ProjectTabAdvancedView.baml
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\Views\ProjectTabView.baml
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\ConfuserEx.g.resources
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\ConfuserEx.csproj.CoreCompileInputs.cache
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\ConfuserEx.csproj.CopyComplete
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\ConfuserEx.exe
+D:\Trinity Obfuscator\ConfuserEx\obj\Debug\ConfuserEx.pdb
+D:\Trinity Obfuscator - Backup\Debug\bin\ConfuserEx.exe.config
+D:\Trinity Obfuscator - Backup\Debug\bin\ConfuserEx.exe
+D:\Trinity Obfuscator - Backup\Debug\bin\ConfuserEx.pdb
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\ConfuserEx.csprojAssemblyReference.cache
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\CompComboBox.baml
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views.baml
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\App.baml
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\CompComboBox.g.cs
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\MainWindow.g.cs
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\StackTraceDecoder.g.cs
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views\ProjectRuleView.g.cs
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views\ProjectModuleView.g.cs
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views\ProjectTabAdvancedView.g.cs
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\App.g.cs
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\ConfuserEx_MarkupCompile.cache
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\ConfuserEx_MarkupCompile.lref
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\MainWindow.baml
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Skin.baml
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\StackTraceDecoder.baml
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views\AboutTabView.baml
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views\ProtectTabView.baml
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views\ProjectRuleView.baml
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views\SettingsTabView.baml
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views\ProjectModuleView.baml
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views\ProjectTabAdvancedView.baml
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views\ProjectTabView.baml
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\ConfuserEx.g.resources
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\ConfuserEx.csproj.CoreCompileInputs.cache
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\ConfuserEx.csproj.CopyComplete
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\ConfuserEx.exe
+D:\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\ConfuserEx.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\ConfuserEx.csprojAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\CompComboBox.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\App.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\CompComboBox.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\MainWindow.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\StackTraceDecoder.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views\ProjectRuleView.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views\ProjectModuleView.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views\ProjectTabAdvancedView.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\App.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\MainWindow.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Skin.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\StackTraceDecoder.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views\AboutTabView.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views\ProtectTabView.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views\ProjectRuleView.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views\SettingsTabView.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views\ProjectModuleView.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views\ProjectTabAdvancedView.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Views\ProjectTabView.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\ConfuserEx.csproj.CoreCompileInputs.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\ConfuserEx.csproj.CopyComplete
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Debug\bin\Confuser.exe.config
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Debug\bin\Confuser.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Debug\bin\Confuser.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Confuser_MarkupCompile.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Confuser_MarkupCompile.lref
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Confuser.g.resources
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Confuser.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\ConfuserEx\obj\Debug\Confuser.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\Debug\bin\Confuser.exe.config
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\Debug\bin\Confuser.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\Debug\bin\Confuser.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\ConfuserEx.csprojAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\CompComboBox.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\Views.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\App.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\CompComboBox.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\MainWindow.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\StackTraceDecoder.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\Views\ProjectRuleView.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\Views\ProjectModuleView.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\Views\ProjectTabAdvancedView.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\App.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\Confuser_MarkupCompile.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\Confuser_MarkupCompile.lref
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\MainWindow.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\Skin.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\StackTraceDecoder.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\Views\AboutTabView.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\Views\ProtectTabView.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\Views\ProjectRuleView.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\Views\SettingsTabView.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\Views\ProjectModuleView.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\Views\ProjectTabAdvancedView.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\Views\ProjectTabView.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\Confuser.g.resources
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\ConfuserEx.csproj.CoreCompileInputs.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\ConfuserEx.csproj.CopyComplete
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\Confuser.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[ж]-Confuser\ConfuserEx\obj\Debug\Confuser.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Debug\bin\Confuser.exe.config
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Debug\bin\Confuser.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Debug\bin\Confuser.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\ConfuserEx.csprojAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\CompComboBox.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\Views.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\App.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\CompComboBox.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\MainWindow.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\StackTraceDecoder.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\Views\ProjectRuleView.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\Views\ProjectModuleView.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\Views\ProjectTabAdvancedView.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\App.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\Confuser_MarkupCompile.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\Confuser_MarkupCompile.lref
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\MainWindow.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\Skin.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\StackTraceDecoder.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\Views\AboutTabView.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\Views\ProtectTabView.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\Views\ProjectRuleView.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\Views\SettingsTabView.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\Views\ProjectModuleView.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\Views\ProjectTabAdvancedView.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\Views\ProjectTabView.baml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\Confuser.g.resources
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\ConfuserEx.csproj.CoreCompileInputs.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\ConfuserEx.csproj.CopyComplete
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\Confuser.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\ConfuserEx\obj\Debug\Confuser.pdb

@@ -1,0 +1,61 @@
+D:\neo-ConfuserEx-master\UnitTest\bin\Debug\UnitTest.exe.config
+D:\neo-ConfuserEx-master\UnitTest\bin\Debug\UnitTest.exe
+D:\neo-ConfuserEx-master\UnitTest\bin\Debug\UnitTest.pdb
+D:\neo-ConfuserEx-master\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+D:\neo-ConfuserEx-master\UnitTest\obj\Debug\UnitTest.exe
+D:\neo-ConfuserEx-master\UnitTest\obj\Debug\UnitTest.pdb
+D:\neo-ConfuserEx-master\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\buett\Desktop\neo-ConfuserEx-master\UnitTest\bin\Debug\UnitTest.exe.config
+C:\Users\buett\Desktop\neo-ConfuserEx-master\UnitTest\bin\Debug\UnitTest.exe
+C:\Users\buett\Desktop\neo-ConfuserEx-master\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\buett\Desktop\neo-ConfuserEx-master\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\buett\Desktop\neo-ConfuserEx-master\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\buett\Desktop\neo-ConfuserEx-master\UnitTest\obj\Debug\UnitTest.exe
+C:\Users\buett\Desktop\neo-ConfuserEx-master\UnitTest\obj\Debug\UnitTest.pdb
+D:\Trinity Obfuscator\UnitTest\bin\Debug\UnitTest.exe.config
+D:\Trinity Obfuscator\UnitTest\bin\Debug\UnitTest.exe
+D:\Trinity Obfuscator\UnitTest\bin\Debug\UnitTest.pdb
+D:\Trinity Obfuscator\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+D:\Trinity Obfuscator\UnitTest\obj\Debug\UnitTest.exe
+D:\Trinity Obfuscator\UnitTest\obj\Debug\UnitTest.pdb
+D:\Trinity Obfuscator\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+D:\Trinity Obfuscator - Backup\UnitTest\bin\Debug\UnitTest.exe.config
+D:\Trinity Obfuscator - Backup\UnitTest\bin\Debug\UnitTest.exe
+D:\Trinity Obfuscator - Backup\UnitTest\bin\Debug\UnitTest.pdb
+D:\Trinity Obfuscator - Backup\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+D:\Trinity Obfuscator - Backup\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+D:\Trinity Obfuscator - Backup\UnitTest\obj\Debug\UnitTest.exe
+D:\Trinity Obfuscator - Backup\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\UnitTest\bin\Debug\UnitTest.exe.config
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\UnitTest\bin\Debug\UnitTest.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\UnitTest\obj\Debug\UnitTest.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Debug\UnitTest.exe.config
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Debug\UnitTest.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\obj\Debug\UnitTest.exe
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Debug\System.AppContext.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Debug\System.Console.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Debug\System.IO.Compression.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Debug\System.IO.FileSystem.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Debug\System.Net.Http.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Debug\System.Net.Sockets.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete

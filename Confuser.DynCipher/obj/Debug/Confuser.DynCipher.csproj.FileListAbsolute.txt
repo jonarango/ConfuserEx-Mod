@@ -1,0 +1,42 @@
+D:\neo-ConfuserEx-master\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.csprojAssemblyReference.cache
+D:\neo-ConfuserEx-master\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.csproj.CoreCompileInputs.cache
+D:\neo-ConfuserEx-master\Debug\bin\Confuser.DynCipher.dll
+D:\neo-ConfuserEx-master\Debug\bin\Confuser.DynCipher.pdb
+D:\neo-ConfuserEx-master\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.csproj.CopyComplete
+D:\neo-ConfuserEx-master\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.dll
+D:\neo-ConfuserEx-master\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.pdb
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Debug\bin\Confuser.DynCipher.dll
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Debug\bin\Confuser.DynCipher.pdb
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.csprojAssemblyReference.cache
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.csproj.CoreCompileInputs.cache
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.csproj.CopyComplete
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.dll
+C:\Users\buett\Desktop\neo-ConfuserEx-master\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.pdb
+D:\Trinity Obfuscator\Debug\bin\Confuser.DynCipher.dll
+D:\Trinity Obfuscator\Debug\bin\Confuser.DynCipher.pdb
+D:\Trinity Obfuscator\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.csprojAssemblyReference.cache
+D:\Trinity Obfuscator\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.csproj.CoreCompileInputs.cache
+D:\Trinity Obfuscator\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.csproj.CopyComplete
+D:\Trinity Obfuscator\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.dll
+D:\Trinity Obfuscator\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.pdb
+D:\Trinity Obfuscator - Backup\Debug\bin\Confuser.DynCipher.dll
+D:\Trinity Obfuscator - Backup\Debug\bin\Confuser.DynCipher.pdb
+D:\Trinity Obfuscator - Backup\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.csprojAssemblyReference.cache
+D:\Trinity Obfuscator - Backup\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.csproj.CoreCompileInputs.cache
+D:\Trinity Obfuscator - Backup\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.csproj.CopyComplete
+D:\Trinity Obfuscator - Backup\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.dll
+D:\Trinity Obfuscator - Backup\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Debug\bin\Confuser.DynCipher.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Debug\bin\Confuser.DynCipher.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.csprojAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.csproj.CoreCompileInputs.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.csproj.CopyComplete
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\Trinity Obfuscator - Backup\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Debug\bin\Confuser.DynCipher.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Debug\bin\Confuser.DynCipher.pdb
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.csprojAssemblyReference.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.csproj.CoreCompileInputs.cache
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.csproj.CopyComplete
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.dll
+C:\Users\parae\OneDrive\Escritorio\asdsadsa\AA-Confusers\[xnoobx.cc] confuser\Confuser.DynCipher\obj\Debug\Confuser.DynCipher.pdb
